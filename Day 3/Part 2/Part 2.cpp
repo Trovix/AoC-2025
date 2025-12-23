@@ -1,4 +1,4 @@
-// Tr0vix AoC 2025 day 3 part 1
+// Tr0vix AoC 2025 day 3 part 2
 
 #include <iostream>
 #include <fstream>
@@ -51,3 +51,4 @@ int main () {
      
     return 0;
 }
+
